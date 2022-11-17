@@ -1,0 +1,59 @@
+.all{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    direction: ltr;
+    width: 80%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 20px;
+    background-color: rgb(226, 185, 80);
+}
+
+
+.butov{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    direction: ltr;
+    width: 80%;
+    border: 1px solid black;
+    padding: 10px;
+    padding-left: 10px;
+    margin: 10px auto;
+    border-radius: 30px;
+    background-color:rgb(226, 185, 80) ;
+
+}
+
+.post{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    direction:rtl;
+    width: 80%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 20px;
+    background-color:rgb(226, 185, 80) ;
+}
+.iki{
+    flex: 1;
+    width: 30%;
+    /* object-fit: fill; 
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; */
+} 
+
+
+.one,.bir,.p1{
+    padding: 10px;
+    flex: 2;
+}
+
+
+.iki,.two,.p2{
+    flex: 1;
+}
